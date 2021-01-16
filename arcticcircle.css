@@ -1,0 +1,34 @@
+/* Styles relevant only to the arctic-circle-page on www.marian-aldenhoevel.de */
+
+h1 {
+}
+
+span.note {
+	font-size: 80%;
+}
+
+div.fullwidth {
+	width: 100%;
+}
+
+td {
+    vertical-align: top;
+}
+
+.centered {
+	text-align: center;
+}
+
+.warn {
+	color: red;
+}
+
+.panel-group .panel.control {
+	margin-bottom: 0.4em;
+}
+
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+}
