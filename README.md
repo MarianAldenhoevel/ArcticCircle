@@ -11,10 +11,6 @@ Done:
 * Remove conflicting tiles
 * Move tiles
 * Fill free space
-* Render using Two.js
+* Render to canvas
 
-ToDo:
-* Autorun, maybe in a loop?
-* Animation of growth, moving and filling
-* Refactor
-* Document
+Ideas based on https://fedimser.github.io/adt/adt.html
